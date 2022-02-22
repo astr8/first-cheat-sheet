@@ -1,11 +1,22 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: #fffa15;
+    background-color:bisque;
 }
 
 table {
     border-spacing: 0px;
     border-collapse: separate;
-    border: 1px solid #000;
+    border: 1px solid black;
+}
+
+td{
+    border-style: solid;
+}
+
+thead {
+    background-color: brown;
+    color: azure;
+    font-weight: bold;
+    text-transform: uppercase;
 }
