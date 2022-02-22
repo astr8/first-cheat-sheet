@@ -10,11 +10,11 @@ table {
     border: 1px solid black;
 }
 
-td{
+.data{
     border-style: solid;
 }
 
-thead {
+.head {
     background-color: brown;
     color: azure;
     font-weight: bold;
