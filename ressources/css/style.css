@@ -7,11 +7,12 @@ body {
 table {
     border-spacing: 0px;
     border-collapse: separate;
-    border: 1px solid black;
+    border: 2px solid rgb(110, 2, 2);
+    margin: 0 auto;
 }
 
 .data{
-    border-style: solid;
+    border: 1px solid black;
 }
 
 .head {
